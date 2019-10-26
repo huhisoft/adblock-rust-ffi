@@ -1,8 +1,8 @@
 [package]
 name = "adblock-ffi"
 version = "0.1.0"
-authors = ["Brian R. Bondy <netzen@gmail.com>"]
-edition = "2018"
+authors = ["Huy Nguyen <huynq.cntt@gmail.com>"]
+edition = "2019"
 
 [dependencies]
 adblock="~0.1.32"
