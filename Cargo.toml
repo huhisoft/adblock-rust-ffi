@@ -2,7 +2,7 @@
 name = "adblock-ffi"
 version = "0.1.0"
 authors = ["Huy Nguyen <huynq.cntt@gmail.com>"]
-edition = "2019"
+edition = "2018"
 
 [dependencies]
 adblock="~0.1.32"
